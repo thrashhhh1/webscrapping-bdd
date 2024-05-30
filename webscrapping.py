@@ -19,23 +19,22 @@ def scrape_matches(url):
             parent_div = span.find_parent('div')
             if parent_div:
                 current_date = parent_div.get_text(strip=True)
-                scraped_data.append(f"Fecha: {current_date}")
+                scraped_data.append(f"{current_date},")
 
         if current_date is None and last_date:
-            scraped_data.append(f"Fecha: {last_date}")
+            scraped_data.append(f"{last_date},")
         elif current_date:
             last_date = current_date
 
         title = match.find('div', class_='w-full xl:leading-3 my-auto text-lg')
         if title:
-            scraped_data.append(title.get_text().strip())
+            scraped_data.append(f"{title.get_text().strip()},")
 
-        scraped_data.append(match.find('span', class_='font-base text-right w-40 xl:text-md text-xs').get_text().strip())
-        scraped_data.append(match.find('span', class_='text-center text-white xl:text-lg text-xs leading-3').get_text().strip())
-        scraped_data.append(match.find('span', class_='font-base text-left w-40 xl:text-md text-xs').get_text().strip())
-        scraped_data.append(f"Estadio: {match.find('span', class_='my-auto w-64 leading-3').get_text().strip()}")
+        scraped_data.append(f"{match.find('span', class_='font-base text-right w-40 xl:text-md text-xs').get_text().strip()},")
+        scraped_data.append(f"{match.find('span', class_='text-center text-white xl:text-lg text-xs leading-3').get_text().strip()},")
+        scraped_data.append(f"{match.find('span', class_='font-base text-left w-40 xl:text-md text-xs').get_text().strip()},")
+        scraped_data.append(f"{match.find('span', class_='my-auto w-64 leading-3').get_text().strip()}\n")
 
-        scraped_data.append("-" * 50)
 
     return scraped_data
 
@@ -54,7 +53,7 @@ urls = [
     'https://campeonatochileno.cl/programacion/12/segunda-la-liga-2d'
 ]
 
-output_file = 'partidos_scrapeados.txt'
+output_file = 'partidosCampeonatoChileno.csv'
 
 for url in urls:
     print(f"Scrapeando URL: {url}")
@@ -62,7 +61,7 @@ for url in urls:
 
     with open(output_file, 'a', encoding='utf-8') as file:
         for item in data:
-            file.write(item + "\n")
-        file.write("\n" + "=" * 50 + "\n\n")
+            file.write(item)
+        
 
 print(f"Los datos scrapeados han sido guardados en el archivo: {output_file}")
