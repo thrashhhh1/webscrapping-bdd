@@ -14,6 +14,7 @@ def scrape_matches(url):
     for match in matches:
         span_elements = match.find_all('span', {'class': 'text-xs flex'})
         current_date = None
+        current_hour = None
 
         for span in span_elements:
             parent_div = span.find_parent('div')
@@ -30,11 +31,20 @@ def scrape_matches(url):
         if title:
             scraped_data.append(f"{title.get_text().strip()},")
 
-        scraped_data.append(f"{match.find('span', class_='font-base text-right w-40 xl:text-md text-xs').get_text().strip()},")
-        scraped_data.append(f"{match.find('span', class_='text-center text-white xl:text-lg text-xs leading-3').get_text().strip()},")
-        scraped_data.append(f"{match.find('span', class_='font-base text-left w-40 xl:text-md text-xs').get_text().strip()},")
-        scraped_data.append(f"{match.find('span', class_='my-auto w-64 leading-3').get_text().strip()}\n")
+        hour_span = match.select_one('span.my-auto:not([class*=" "])')
+        if hour_span:
+            current_hour = hour_span.get_text(strip=True)
+            scraped_data.append(f"{current_hour},")
+            print(current_hour)
 
+        if match.find('span', class_='font-base text-right w-40 xl:text-md text-xs'):
+            scraped_data.append(f"{match.find('span', class_='font-base text-right w-40 xl:text-md text-xs').get_text().strip()},")
+        if match.find('span', class_='text-center text-white xl:text-lg text-xs leading-3'):
+            scraped_data.append(f"{match.find('span', class_='text-center text-white xl:text-lg text-xs leading-3').get_text().strip()},")
+        if match.find('span', class_='font-base text-left w-40 xl:text-md text-xs'):
+            scraped_data.append(f"{match.find('span', class_='font-base text-left w-40 xl:text-md text-xs').get_text().strip()},")
+        if match.find('span', class_='my-auto w-64 leading-3'):
+            scraped_data.append(f"{match.find('span', class_='my-auto w-64 leading-3').get_text().strip()}\n")
 
     return scraped_data
 
@@ -62,6 +72,5 @@ for url in urls:
     with open(output_file, 'a', encoding='utf-8') as file:
         for item in data:
             file.write(item)
-        
 
 print(f"Los datos scrapeados han sido guardados en el archivo: {output_file}")

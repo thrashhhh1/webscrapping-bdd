@@ -1,0 +1,1287 @@
+{
+    "CampeonatoChileno": {
+        "divisiones": {
+            "division": {
+                "nombre": "Segunda division",
+                "equipos": {
+                    "equipo": [
+                        {
+                            "nombre": "Concón National",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Mar. 05 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 2",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Dom. 10 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Dom. 17 Marzo 2024",
+                                        "hora": "12:00",
+                                        "resultado": "1 3",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Lun. 25 Marzo 2024",
+                                        "hora": "21:00",
+                                        "resultado": "0 3",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 30 Marzo 2024",
+                                        "hora": "20:30",
+                                        "resultado": "0 2",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 06 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Lun. 15 Abril 2024",
+                                        "hora": "20:30",
+                                        "resultado": "0 0",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Dom. 21 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "2 1",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 27 Abril 2024",
+                                        "hora": "12:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 04 Mayo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Vier. 10 Mayo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "2 1",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Dom. 19 Mayo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Municipal de La Pintana"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "D. Puerto Montt",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 09 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 16 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "3 0",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Lun. 25 Marzo 2024",
+                                        "hora": "21:00",
+                                        "resultado": "3 0",
+                                        "oponente": "Concón National",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 30 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 06 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 13 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 3",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 20 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Dom. 28 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "1 0",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Lun. 06 Mayo 2024",
+                                        "hora": "14:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Félix Gallardo"
+                                    },
+                                    {
+                                        "fecha": "Dom. 12 Mayo 2024",
+                                        "hora": "12:30",
+                                        "resultado": "0 1",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 18 Mayo 2024",
+                                        "hora": "17:30",
+                                        "resultado": "3 2",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Regional de Los Andes"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Deportes Concepción",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 09 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Dom. 17 Marzo 2024",
+                                        "hora": "12:00",
+                                        "resultado": "3 1",
+                                        "oponente": "Concón National",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Lun. 25 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 30 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 06 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "1 0",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Dom. 14 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "3 2",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 21 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "1 2",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 27 Abril 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 3",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 05 Mayo 2024",
+                                        "hora": "17:30",
+                                        "resultado": "1 0",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "4 0",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 19 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 2",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Deportes Linares",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Lun. 11 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Lun. 18 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 3",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Lun. 25 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Lun. 01 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 06 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Lun. 15 Abril 2024",
+                                        "hora": "20:30",
+                                        "resultado": "0 0",
+                                        "oponente": "Concón National",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 20 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "0 2",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 27 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "2 0",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 04 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Vier. 17 Mayo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 2",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Municipal de La Pintana"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Deportes Melipilla",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "4 0",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 10 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Concón National",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Lun. 18 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "3 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Dom. 24 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Dom. 31 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "5 0",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Dom. 07 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "2 1",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 13 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 20 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "0 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 27 Abril 2024",
+                                        "hora": "18:00",
+                                        "resultado": "3 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 05 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 18 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "3 3",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Rubén Marcos"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Deportes Rengo",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 09 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Vier. 15 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "3 1",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Vier. 22 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Mar. 02 Abril 2024",
+                                        "hora": "18:00",
+                                        "resultado": "2 1",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Dom. 07 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "2 3",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 13 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "3 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Dom. 21 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "1 2",
+                                        "oponente": "Concón National",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Dom. 28 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Dom. 05 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "12:30",
+                                        "resultado": "1 1",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 18 Mayo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 0",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Ester Roa"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Fernández Vial",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "3 4",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 09 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 16 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 23 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Jue. 28 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "4 0",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 07 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "1 2",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Dom. 14 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "2 3",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Vier. 19 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "0 0",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Vier. 26 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "0 0",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Vier. 03 Mayo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 1",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 18 Mayo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 0",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Ester Roa"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "General Velásquez",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Dom. 03 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Dom. 10 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "7 2",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 17 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 3",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Vier. 22 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Dom. 31 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 5",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Dom. 07 Abril 2024",
+                                        "hora": "20:00",
+                                        "resultado": "0 0",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 14 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "2 0",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 20 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "2 0",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Dom. 28 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "6 2",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Vier. 03 Mayo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Vier. 10 Mayo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Concón National",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Dom. 19 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Lautaro de Buin",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "4 3",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Lun. 11 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Lun. 18 Marzo 2024",
+                                        "hora": "20:30",
+                                        "resultado": "1 1",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 24 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Lun. 01 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 07 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "3 2",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Dom. 14 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "0 1",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Dom. 21 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Dom. 28 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "2 6",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Lun. 06 Mayo 2024",
+                                        "hora": "14:00",
+                                        "resultado": "2 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Félix Gallardo"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 4",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 19 Mayo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Concón National",
+                                        "estadio": "Municipal de La Pintana"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Provincial Osorno",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 09 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Dom. 17 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "3 1",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 23 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Dom. 31 Marzo 2024",
+                                        "hora": "20:30",
+                                        "resultado": "3 0",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 06 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Concón National",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Lun. 15 Abril 2024",
+                                        "hora": "18:00",
+                                        "resultado": "2 3",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Dom. 21 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Dom. 28 Abril 2024",
+                                        "hora": "12:30",
+                                        "resultado": "0 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 04 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "12:30",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de Rengo"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 18 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "3 3",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Rubén Marcos"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Provincial Ovalle",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Lun. 11 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 16 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 23 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "2 2",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 31 Marzo 2024",
+                                        "hora": "20:30",
+                                        "resultado": "0 3",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Lun. 08 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "0 1",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Dom. 14 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "0 2",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Dom. 21 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "2 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 27 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "0 2",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Fiscal Tucapel Bustamante"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 04 Mayo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Concón National",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 11 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Dom. 19 Mayo 2024",
+                                        "hora": "12:30",
+                                        "resultado": "4 0",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "La Portada"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Real San Joaquín",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Dom. 03 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 1",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Municipal Augusto Rodríguez"
+                                    },
+                                    {
+                                        "fecha": "Lun. 11 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 16 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 3",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Dom. 24 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 30 Marzo 2024",
+                                        "hora": "20:30",
+                                        "resultado": "2 0",
+                                        "oponente": "Concón National",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 06 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "0 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 13 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 1",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Vier. 19 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "0 0",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 28 Abril 2024",
+                                        "hora": "15:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Dom. 05 Mayo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "1 2",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Dom. 12 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Dom. 19 Mayo 2024",
+                                        "hora": "12:30",
+                                        "resultado": "0 4",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "La Portada"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "San Antonio Unido",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Mar. 05 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Concón National",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Dom. 10 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "2 7",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Lun. 18 Marzo 2024",
+                                        "hora": "20:30",
+                                        "resultado": "1 1",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 24 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Estadio Soinca Bata"
+                                    },
+                                    {
+                                        "fecha": "Mar. 02 Abril 2024",
+                                        "hora": "18:00",
+                                        "resultado": "1 2",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Lun. 08 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 0",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Diaguita"
+                                    },
+                                    {
+                                        "fecha": "Lun. 15 Abril 2024",
+                                        "hora": "18:00",
+                                        "resultado": "3 2",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 20 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "2 1",
+                                        "oponente": "Trasandino",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Vier. 26 Abril 2024",
+                                        "hora": "19:00",
+                                        "resultado": "0 0",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Dom. 05 Mayo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Dom. 12 Mayo 2024",
+                                        "hora": "12:30",
+                                        "resultado": "1 0",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Bicentenario Chinquihue"
+                                    },
+                                    {
+                                        "fecha": "Vier. 17 Mayo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "2 1",
+                                        "oponente": "Deportes Linares",
+                                        "estadio": "Municipal de La Pintana"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nombre": "Trasandino",
+                            "partidos": {
+                                "partido": [
+                                    {
+                                        "fecha": "Sáb. 02 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "0 4",
+                                        "oponente": "Deportes Melipilla",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 09 Marzo 2024",
+                                        "hora": "18:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Provincial Osorno",
+                                        "estadio": "Rubén Marcos"
+                                    },
+                                    {
+                                        "fecha": "Vier. 15 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "1 3",
+                                        "oponente": "Deportes Rengo",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 23 Marzo 2024",
+                                        "hora": "20:00",
+                                        "resultado": "2 2",
+                                        "oponente": "Provincial Ovalle",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Jue. 28 Marzo 2024",
+                                        "hora": "19:00",
+                                        "resultado": "0 4",
+                                        "oponente": "Fernández Vial",
+                                        "estadio": "Ester Roa"
+                                    },
+                                    {
+                                        "fecha": "Dom. 07 Abril 2024",
+                                        "hora": "20:00",
+                                        "resultado": "0 0",
+                                        "oponente": "General Velásquez",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 14 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "1 0",
+                                        "oponente": "Lautaro de Buin",
+                                        "estadio": "Municipal de La Pintana"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 20 Abril 2024",
+                                        "hora": "17:30",
+                                        "resultado": "1 2",
+                                        "oponente": "San Antonio Unido",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 27 Abril 2024",
+                                        "hora": "12:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Concón National",
+                                        "estadio": "Bicentenario Lucio Fariña"
+                                    },
+                                    {
+                                        "fecha": "Dom. 05 Mayo 2024",
+                                        "hora": "17:30",
+                                        "resultado": "0 1",
+                                        "oponente": "Deportes Concepción",
+                                        "estadio": "Regional de Los Andes"
+                                    },
+                                    {
+                                        "fecha": "Dom. 12 Mayo 2024",
+                                        "hora": "15:00",
+                                        "resultado": "0 1",
+                                        "oponente": "Real San Joaquín",
+                                        "estadio": "Municipal de San Joaquín"
+                                    },
+                                    {
+                                        "fecha": "Sáb. 18 Mayo 2024",
+                                        "hora": "17:30",
+                                        "resultado": "2 3",
+                                        "oponente": "D. Puerto Montt",
+                                        "estadio": "Regional de Los Andes"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

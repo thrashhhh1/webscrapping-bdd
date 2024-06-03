@@ -1,0 +1,1772 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Campeonatos>
+    <CampeonatoMundial>
+        <partidos>
+            <equipo>
+                <nombre>Argentina</nombre>
+                <partido>
+                    <dia>07/09/2023</dia>
+                    <rival>Ecuador</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Mâs Monumental</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Lionel Scaloni</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Bolivia</rival>
+                    <resultado>3-0</resultado>
+                    <estadio>Hernando Siles</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Lionel Scaloni</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Paraguay</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Mâs Monumental</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Lionel Scaloni</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Perú</rival>
+                    <resultado>2-0</resultado>
+                    <estadio>Monumental David Arellano</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Lionel Scaloni</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Uruguay</rival>
+                    <resultado>0-2</resultado>
+                    <estadio>La Bombonera</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Lionel Scaloni</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Brasil</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Maracaná</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Lionel Scaloni</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Bolivia</nombre>
+                <partido>
+                    <dia>08/09/2023</dia>
+                    <rival>Brasil</rival>
+                    <resultado>1-5</resultado>
+                    <estadio>Olímpico do Pará</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Gustavo Costas</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Argentina</rival>
+                    <resultado>0-3</resultado>
+                    <estadio>Hernando Siles</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Gustavo Costas</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Ecuador</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Hernando Siles</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Gustavo Costas</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Paraguay</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Defensores del Chaco</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Gustavo Costas</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Perú</rival>
+                    <resultado>2-0</resultado>
+                    <estadio>Hernando Siles</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Antônio Carlos Zago</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Uruguay</rival>
+                    <resultado>0-3</resultado>
+                    <estadio>Centenario</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Antônio Carlos Zago</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Brasil</nombre>
+                <partido>
+                    <dia>08/09/2023</dia>
+                    <rival>Bolivia</rival>
+                    <resultado>5-1</resultado>
+                    <estadio>Olímpico do Pará</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Fernando Diniz</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Perú</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Nacional del Perú</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Fernando Diniz</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Venezuela</rival>
+                    <resultado>5-1</resultado>
+                    <estadio>Arena Pantanal</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Fernando Diniz</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Uruguay</rival>
+                    <resultado>0-2</resultado>
+                    <estadio>Centenario</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Fernando Diniz</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Colombia</rival>
+                    <resultado>1-2</resultado>
+                    <estadio>Metropolitano Roberto Meléndez</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Fernando Diniz</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Argentina</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Maracaná</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Fernando Diniz</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Chile</nombre>
+                <partido>
+                    <dia>08/09/2023</dia>
+                    <rival>Uruguay</rival>
+                    <resultado>1-3</resultado>
+                    <estadio>Centenario</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Eduardo Berizzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Colombia</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Monumental David Arellano</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Eduardo Berizzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Perú</rival>
+                    <resultado>2-0</resultado>
+                    <estadio>Monumental David Arellano</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Eduardo Berizzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Venezuela</rival>
+                    <resultado>0-3</resultado>
+                    <estadio>Monumental de Maturín</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Eduardo Berizzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Paraguay</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Monumental David Arellano</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Eduardo Berizzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Ecuador</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Rodrigo Paz Delgado</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Nicolás Córdova</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Colombia</nombre>
+                <partido>
+                    <dia>07/09/2023</dia>
+                    <rival>Venezuela</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Metropolitano Roberto Meléndez</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Néstor Lorenzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Chile</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Monumental David Arellano</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Néstor Lorenzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Uruguay</rival>
+                    <resultado>2-2</resultado>
+                    <estadio>Metropolitano Roberto Meléndez</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Néstor Lorenzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Ecuador</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Rodrigo Paz Delgado</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Néstor Lorenzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Brasil</rival>
+                    <resultado>2-1</resultado>
+                    <estadio>Metropolitano Roberto Meléndez</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Néstor Lorenzo</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Paraguay</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Defensores del Chaco</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Néstor Lorenzo</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Ecuador</nombre>
+                <partido>
+                    <dia>07/09/2023</dia>
+                    <rival>Argentina</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Mâs Monumental</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Félix Sánchez Bas</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Uruguay</rival>
+                    <resultado>2-1</resultado>
+                    <estadio>Rodrigo Paz Delgado</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Félix Sánchez Bas</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Bolivia</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Hernando Siles</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Félix Sánchez Bas</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Colombia</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Rodrigo Paz Delgado</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Félix Sánchez Bas</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Venezuela</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Monumental de Maturín</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Félix Sánchez Bas</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Chile</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Rodrigo Paz Delgado</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Félix Sánchez Bas</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Paraguay</nombre>
+                <partido>
+                    <dia>07/09/2023</dia>
+                    <rival>Perú</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Antonio Aranda</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Guillermo Barros Schelotto</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Venezuela</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Monumental de Maturín</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Guillermo Barros Schelotto</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Argentina</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Mâs Monumental</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Daniel Garnero</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Bolivia</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Defensores del Chaco</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Daniel Garnero</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Chile</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Monumental David Arellano</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Daniel Garnero</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Colombia</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Defensores del Chaco</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Daniel Garnero</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Perú</nombre>
+                <partido>
+                    <dia>07/09/2023</dia>
+                    <rival>Paraguay</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Antonio Aranda</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Juan Reynoso</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Brasil</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Nacional del Perú</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Juan Reynoso</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Chile</rival>
+                    <resultado>0-2</resultado>
+                    <estadio>Monumental David Arellano</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Juan Reynoso</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Argentina</rival>
+                    <resultado>0-2</resultado>
+                    <estadio>Nacional del Perú</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Juan Reynoso</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Bolivia</rival>
+                    <resultado>0-2</resultado>
+                    <estadio>Hernando Siles</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Juan Reynoso</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Venezuela</rival>
+                    <resultado>1-1</resultado>
+                    <estadio>Nacional del Perú</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Juan Reynoso</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Uruguay</nombre>
+                <partido>
+                    <dia>08/09/2023</dia>
+                    <rival>Chile</rival>
+                    <resultado>3-1</resultado>
+                    <estadio>Centenario</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Marcelo Bielsa</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Ecuador</rival>
+                    <resultado>1-2</resultado>
+                    <estadio>Rodrigo Paz Delgado</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Marcelo Bielsa</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Colombia</rival>
+                    <resultado>2-2</resultado>
+                    <estadio>Metropolitano Roberto Meléndez</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Marcelo Bielsa</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Brasil</rival>
+                    <resultado>2-0</resultado>
+                    <estadio>Centenario</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Marcelo Bielsa</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Argentina</rival>
+                    <resultado>2-0</resultado>
+                    <estadio>La Bombonera</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Marcelo Bielsa</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Bolivia</rival>
+                    <resultado>3-0</resultado>
+                    <estadio>Centenario</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Marcelo Bielsa</entrenador>
+                </partido>
+            </equipo>
+            <equipo>
+                <nombre>Venezuela</nombre>
+                <partido>
+                    <dia>07/09/2023</dia>
+                    <rival>Colombia</rival>
+                    <resultado>0-1</resultado>
+                    <estadio>Metropolitano Roberto Meléndez</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Fernando Batista</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/09/2023</dia>
+                    <rival>Paraguay</rival>
+                    <resultado>1-0</resultado>
+                    <estadio>Monumental de Maturín</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Fernando Batista</entrenador>
+                </partido>
+                <partido>
+                    <dia>12/10/2023</dia>
+                    <rival>Brasil</rival>
+                    <resultado>1-5</resultado>
+                    <estadio>Arena Pantanal</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Fernando Batista</entrenador>
+                </partido>
+                <partido>
+                    <dia>17/10/2023</dia>
+                    <rival>Chile</rival>
+                    <resultado>3-0</resultado>
+                    <estadio>Monumental de Maturín</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Fernando Batista</entrenador>
+                </partido>
+                <partido>
+                    <dia>16/11/2023</dia>
+                    <rival>Ecuador</rival>
+                    <resultado>0-0</resultado>
+                    <estadio>Monumental de Maturín</estadio>
+                    <modalidad>Local</modalidad>
+                    <entrenador>Fernando Batista</entrenador>
+                </partido>
+                <partido>
+                    <dia>21/11/2023</dia>
+                    <rival>Perú</rival>
+                    <resultado>1-1</resultado>
+                    <estadio>Nacional del Perú</estadio>
+                    <modalidad>Visita</modalidad>
+                    <entrenador>Fernando Batista</entrenador>
+                </partido>
+            </equipo>
+        </partidos>
+    </CampeonatoMundial>
+    <CampeonatoChileno>
+        <divisiones>
+            <division>
+                <nombre>Segunda division</nombre>
+                <equipos>
+                    <equipo>
+                        <nombre>Concón National</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Mar. 05 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 10 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 17 Marzo 2024</fecha>
+                                <hora>12:00</hora>
+                                <resultado>1 3</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 25 Marzo 2024</fecha>
+                                <hora>21:00</hora>
+                                <resultado>0 3</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 30 Marzo 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>0 2</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 06 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 15 Abril 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 21 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 27 Abril 2024</fecha>
+                                <hora>12:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 04 Mayo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 10 Mayo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 19 Mayo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>D. Puerto Montt</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 09 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 16 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>3 0</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 25 Marzo 2024</fecha>
+                                <hora>21:00</hora>
+                                <resultado>3 0</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 30 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 06 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 13 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 3</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 20 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 28 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 06 Mayo 2024</fecha>
+                                <hora>14:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Félix Gallardo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 12 Mayo 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 18 Mayo 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>3 2</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Deportes Concepción</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 09 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 17 Marzo 2024</fecha>
+                                <hora>12:00</hora>
+                                <resultado>3 1</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 25 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 30 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 06 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 14 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>3 2</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 21 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 27 Abril 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 3</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 05 Mayo 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>4 0</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 19 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Deportes Linares</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 11 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 18 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 3</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 25 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 01 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 06 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 15 Abril 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 20 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>0 2</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 27 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>2 0</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 04 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 17 Mayo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Deportes Melipilla</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>4 0</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 10 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 18 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>3 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 24 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 31 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>5 0</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 07 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 13 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 20 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 27 Abril 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>3 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 05 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 18 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>3 3</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Deportes Rengo</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 09 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 15 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>3 1</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 22 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Mar. 02 Abril 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 07 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>2 3</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 13 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>3 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 21 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 28 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 05 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 18 Mayo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Fernández Vial</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>3 4</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 09 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 16 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 23 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Jue. 28 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>4 0</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 07 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 14 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>2 3</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 19 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 26 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 03 Mayo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 18 Mayo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>General Velásquez</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Dom. 03 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 10 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>7 2</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 17 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 3</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 22 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 31 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 5</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 07 Abril 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 14 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>2 0</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 20 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>2 0</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 28 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>6 2</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 03 Mayo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 10 Mayo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 19 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Lautaro de Buin</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>4 3</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 11 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 18 Marzo 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 24 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 01 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 07 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>3 2</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 14 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 21 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 28 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>2 6</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 06 Mayo 2024</fecha>
+                                <hora>14:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Félix Gallardo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 4</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 19 Mayo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Provincial Osorno</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 09 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 17 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>3 1</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 23 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 31 Marzo 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>3 0</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 06 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 15 Abril 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>2 3</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 21 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 28 Abril 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 04 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de Rengo</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 18 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>3 3</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Provincial Ovalle</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 11 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 16 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 23 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>2 2</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 31 Marzo 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>0 3</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 08 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 14 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>0 2</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 21 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 27 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>0 2</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Fiscal Tucapel Bustamante</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 04 Mayo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 11 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 19 Mayo 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>4 0</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>La Portada</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Real San Joaquín</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Dom. 03 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Municipal Augusto Rodríguez</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 11 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 16 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 3</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 24 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 30 Marzo 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>2 0</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 06 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 13 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 19 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 28 Abril 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 05 Mayo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 12 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 19 Mayo 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>0 4</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>La Portada</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>San Antonio Unido</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Mar. 05 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 10 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>2 7</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 18 Marzo 2024</fecha>
+                                <hora>20:30</hora>
+                                <resultado>1 1</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 24 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Estadio Soinca Bata</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Mar. 02 Abril 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 08 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Diaguita</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Lun. 15 Abril 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>3 2</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 20 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Trasandino</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 26 Abril 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 05 Mayo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 12 Mayo 2024</fecha>
+                                <hora>12:30</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Bicentenario Chinquihue</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 17 Mayo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>2 1</resultado>
+                                <oponente>Deportes Linares</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                    <equipo>
+                        <nombre>Trasandino</nombre>
+                        <partidos>
+                            <partido>
+                                <fecha>Sáb. 02 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>0 4</resultado>
+                                <oponente>Deportes Melipilla</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 09 Marzo 2024</fecha>
+                                <hora>18:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Provincial Osorno</oponente>
+                                <estadio>Rubén Marcos</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Vier. 15 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>1 3</resultado>
+                                <oponente>Deportes Rengo</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 23 Marzo 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>2 2</resultado>
+                                <oponente>Provincial Ovalle</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Jue. 28 Marzo 2024</fecha>
+                                <hora>19:00</hora>
+                                <resultado>0 4</resultado>
+                                <oponente>Fernández Vial</oponente>
+                                <estadio>Ester Roa</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 07 Abril 2024</fecha>
+                                <hora>20:00</hora>
+                                <resultado>0 0</resultado>
+                                <oponente>General Velásquez</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 14 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>1 0</resultado>
+                                <oponente>Lautaro de Buin</oponente>
+                                <estadio>Municipal de La Pintana</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 20 Abril 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>1 2</resultado>
+                                <oponente>San Antonio Unido</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 27 Abril 2024</fecha>
+                                <hora>12:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Concón National</oponente>
+                                <estadio>Bicentenario Lucio Fariña</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 05 Mayo 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Deportes Concepción</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Dom. 12 Mayo 2024</fecha>
+                                <hora>15:00</hora>
+                                <resultado>0 1</resultado>
+                                <oponente>Real San Joaquín</oponente>
+                                <estadio>Municipal de San Joaquín</estadio>
+                            </partido>
+                            <partido>
+                                <fecha>Sáb. 18 Mayo 2024</fecha>
+                                <hora>17:30</hora>
+                                <resultado>2 3</resultado>
+                                <oponente>D. Puerto Montt</oponente>
+                                <estadio>Regional de Los Andes</estadio>
+                            </partido>
+                        </partidos>
+                    </equipo>
+                </equipos>
+            </division>
+        </divisiones>
+    </CampeonatoChileno>
+</Campeonatos>
