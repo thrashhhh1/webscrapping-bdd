@@ -1,0 +1,2144 @@
+{
+	"Campeonatos": {
+		"CampeonatoMundial": {
+			"partidos": {
+				"equipo": [
+					{
+						"nombre": "Argentina",
+						"partido": [
+							{
+								"fecha": "07/09/2023",
+								"oponente": "Ecuador",
+								"resultado": "1-0",
+								"estadio": "Mâs Monumental",
+								"modalidad": "Local",
+								"entrenador": "Lionel Scaloni"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Bolivia",
+								"resultado": "3-0",
+								"estadio": "Hernando Siles",
+								"modalidad": "Visita",
+								"entrenador": "Lionel Scaloni"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Paraguay",
+								"resultado": "1-0",
+								"estadio": "Mâs Monumental",
+								"modalidad": "Local",
+								"entrenador": "Lionel Scaloni"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Perú",
+								"resultado": "2-0",
+								"estadio": "Monumental David Arellano",
+								"modalidad": "Visita",
+								"entrenador": "Lionel Scaloni"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Uruguay",
+								"resultado": "0-2",
+								"estadio": "La Bombonera",
+								"modalidad": "Local",
+								"entrenador": "Lionel Scaloni"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Brasil",
+								"resultado": "0-1",
+								"estadio": "Maracaná",
+								"modalidad": "Visita",
+								"entrenador": "Lionel Scaloni"
+							}
+						]
+					},
+					{
+						"nombre": "Bolivia",
+						"partido": [
+							{
+								"fecha": "08/09/2023",
+								"oponente": "Brasil",
+								"resultado": "1-5",
+								"estadio": "Olímpico do Pará",
+								"modalidad": "Visita",
+								"entrenador": "Gustavo Costas"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Argentina",
+								"resultado": "0-3",
+								"estadio": "Hernando Siles",
+								"modalidad": "Local",
+								"entrenador": "Gustavo Costas"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Ecuador",
+								"resultado": "0-1",
+								"estadio": "Hernando Siles",
+								"modalidad": "Local",
+								"entrenador": "Gustavo Costas"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Paraguay",
+								"resultado": "0-1",
+								"estadio": "Defensores del Chaco",
+								"modalidad": "Visita",
+								"entrenador": "Gustavo Costas"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Perú",
+								"resultado": "2-0",
+								"estadio": "Hernando Siles",
+								"modalidad": "Local",
+								"entrenador": "Antônio Carlos Zago"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Uruguay",
+								"resultado": "0-3",
+								"estadio": "Centenario",
+								"modalidad": "Visita",
+								"entrenador": "Antônio Carlos Zago"
+							}
+						]
+					},
+					{
+						"nombre": "Brasil",
+						"partido": [
+							{
+								"fecha": "08/09/2023",
+								"oponente": "Bolivia",
+								"resultado": "5-1",
+								"estadio": "Olímpico do Pará",
+								"modalidad": "Local",
+								"entrenador": "Fernando Diniz"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Perú",
+								"resultado": "1-0",
+								"estadio": "Nacional del Perú",
+								"modalidad": "Visita",
+								"entrenador": "Fernando Diniz"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Venezuela",
+								"resultado": "5-1",
+								"estadio": "Arena Pantanal",
+								"modalidad": "Local",
+								"entrenador": "Fernando Diniz"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Uruguay",
+								"resultado": "0-2",
+								"estadio": "Centenario",
+								"modalidad": "Visita",
+								"entrenador": "Fernando Diniz"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Colombia",
+								"resultado": "1-2",
+								"estadio": "Metropolitano Roberto Meléndez",
+								"modalidad": "Visita",
+								"entrenador": "Fernando Diniz"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Argentina",
+								"resultado": "0-1",
+								"estadio": "Maracaná",
+								"modalidad": "Local",
+								"entrenador": "Fernando Diniz"
+							}
+						]
+					},
+					{
+						"nombre": "Chile",
+						"partido": [
+							{
+								"fecha": "08/09/2023",
+								"oponente": "Uruguay",
+								"resultado": "1-3",
+								"estadio": "Centenario",
+								"modalidad": "Visita",
+								"entrenador": "Eduardo Berizzo"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Colombia",
+								"resultado": "0-0",
+								"estadio": "Monumental David Arellano",
+								"modalidad": "Local",
+								"entrenador": "Eduardo Berizzo"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Perú",
+								"resultado": "2-0",
+								"estadio": "Monumental David Arellano",
+								"modalidad": "Local",
+								"entrenador": "Eduardo Berizzo"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Venezuela",
+								"resultado": "0-3",
+								"estadio": "Monumental de Maturín",
+								"modalidad": "Visita",
+								"entrenador": "Eduardo Berizzo"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Paraguay",
+								"resultado": "0-0",
+								"estadio": "Monumental David Arellano",
+								"modalidad": "Local",
+								"entrenador": "Eduardo Berizzo"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Ecuador",
+								"resultado": "0-1",
+								"estadio": "Rodrigo Paz Delgado",
+								"modalidad": "Visita",
+								"entrenador": "Nicolás Córdova"
+							}
+						]
+					},
+					{
+						"nombre": "Colombia",
+						"partido": [
+							{
+								"fecha": "07/09/2023",
+								"oponente": "Venezuela",
+								"resultado": "1-0",
+								"estadio": "Metropolitano Roberto Meléndez",
+								"modalidad": "Local",
+								"entrenador": "Néstor Lorenzo"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Chile",
+								"resultado": "0-0",
+								"estadio": "Monumental David Arellano",
+								"modalidad": "Visita",
+								"entrenador": "Néstor Lorenzo"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Uruguay",
+								"resultado": "2-2",
+								"estadio": "Metropolitano Roberto Meléndez",
+								"modalidad": "Local",
+								"entrenador": "Néstor Lorenzo"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Ecuador",
+								"resultado": "0-0",
+								"estadio": "Rodrigo Paz Delgado",
+								"modalidad": "Visita",
+								"entrenador": "Néstor Lorenzo"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Brasil",
+								"resultado": "2-1",
+								"estadio": "Metropolitano Roberto Meléndez",
+								"modalidad": "Local",
+								"entrenador": "Néstor Lorenzo"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Paraguay",
+								"resultado": "1-0",
+								"estadio": "Defensores del Chaco",
+								"modalidad": "Visita",
+								"entrenador": "Néstor Lorenzo"
+							}
+						]
+					},
+					{
+						"nombre": "Ecuador",
+						"partido": [
+							{
+								"fecha": "07/09/2023",
+								"oponente": "Argentina",
+								"resultado": "0-1",
+								"estadio": "Mâs Monumental",
+								"modalidad": "Visita",
+								"entrenador": "Félix Sánchez Bas"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Uruguay",
+								"resultado": "2-1",
+								"estadio": "Rodrigo Paz Delgado",
+								"modalidad": "Local",
+								"entrenador": "Félix Sánchez Bas"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Bolivia",
+								"resultado": "1-0",
+								"estadio": "Hernando Siles",
+								"modalidad": "Visita",
+								"entrenador": "Félix Sánchez Bas"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Colombia",
+								"resultado": "0-0",
+								"estadio": "Rodrigo Paz Delgado",
+								"modalidad": "Local",
+								"entrenador": "Félix Sánchez Bas"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Venezuela",
+								"resultado": "0-0",
+								"estadio": "Monumental de Maturín",
+								"modalidad": "Visita",
+								"entrenador": "Félix Sánchez Bas"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Chile",
+								"resultado": "1-0",
+								"estadio": "Rodrigo Paz Delgado",
+								"modalidad": "Local",
+								"entrenador": "Félix Sánchez Bas"
+							}
+						]
+					},
+					{
+						"nombre": "Paraguay",
+						"partido": [
+							{
+								"fecha": "07/09/2023",
+								"oponente": "Perú",
+								"resultado": "0-0",
+								"estadio": "Antonio Aranda",
+								"modalidad": "Local",
+								"entrenador": "Guillermo Barros Schelotto"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Venezuela",
+								"resultado": "0-1",
+								"estadio": "Monumental de Maturín",
+								"modalidad": "Visita",
+								"entrenador": "Guillermo Barros Schelotto"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Argentina",
+								"resultado": "0-1",
+								"estadio": "Mâs Monumental",
+								"modalidad": "Visita",
+								"entrenador": "Daniel Garnero"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Bolivia",
+								"resultado": "1-0",
+								"estadio": "Defensores del Chaco",
+								"modalidad": "Local",
+								"entrenador": "Daniel Garnero"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Chile",
+								"resultado": "0-0",
+								"estadio": "Monumental David Arellano",
+								"modalidad": "Visita",
+								"entrenador": "Daniel Garnero"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Colombia",
+								"resultado": "0-1",
+								"estadio": "Defensores del Chaco",
+								"modalidad": "Local",
+								"entrenador": "Daniel Garnero"
+							}
+						]
+					},
+					{
+						"nombre": "Perú",
+						"partido": [
+							{
+								"fecha": "07/09/2023",
+								"oponente": "Paraguay",
+								"resultado": "0-0",
+								"estadio": "Antonio Aranda",
+								"modalidad": "Visita",
+								"entrenador": "Juan Reynoso"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Brasil",
+								"resultado": "0-1",
+								"estadio": "Nacional del Perú",
+								"modalidad": "Local",
+								"entrenador": "Juan Reynoso"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Chile",
+								"resultado": "0-2",
+								"estadio": "Monumental David Arellano",
+								"modalidad": "Visita",
+								"entrenador": "Juan Reynoso"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Argentina",
+								"resultado": "0-2",
+								"estadio": "Nacional del Perú",
+								"modalidad": "Local",
+								"entrenador": "Juan Reynoso"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Bolivia",
+								"resultado": "0-2",
+								"estadio": "Hernando Siles",
+								"modalidad": "Visita",
+								"entrenador": "Juan Reynoso"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Venezuela",
+								"resultado": "1-1",
+								"estadio": "Nacional del Perú",
+								"modalidad": "Local",
+								"entrenador": "Juan Reynoso"
+							}
+						]
+					},
+					{
+						"nombre": "Uruguay",
+						"partido": [
+							{
+								"fecha": "08/09/2023",
+								"oponente": "Chile",
+								"resultado": "3-1",
+								"estadio": "Centenario",
+								"modalidad": "Local",
+								"entrenador": "Marcelo Bielsa"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Ecuador",
+								"resultado": "1-2",
+								"estadio": "Rodrigo Paz Delgado",
+								"modalidad": "Visita",
+								"entrenador": "Marcelo Bielsa"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Colombia",
+								"resultado": "2-2",
+								"estadio": "Metropolitano Roberto Meléndez",
+								"modalidad": "Visita",
+								"entrenador": "Marcelo Bielsa"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Brasil",
+								"resultado": "2-0",
+								"estadio": "Centenario",
+								"modalidad": "Local",
+								"entrenador": "Marcelo Bielsa"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Argentina",
+								"resultado": "2-0",
+								"estadio": "La Bombonera",
+								"modalidad": "Visita",
+								"entrenador": "Marcelo Bielsa"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Bolivia",
+								"resultado": "3-0",
+								"estadio": "Centenario",
+								"modalidad": "Local",
+								"entrenador": "Marcelo Bielsa",
+								"__text": "oponente"
+							}
+						]
+					},
+					{
+						"nombre": "Venezuela",
+						"partido": [
+							{
+								"fecha": "07/09/2023",
+								"oponente": "Colombia",
+								"resultado": "0-1",
+								"estadio": "Metropolitano Roberto Meléndez",
+								"modalidad": "Visita",
+								"entrenador": "Fernando Batista"
+							},
+							{
+								"fecha": "12/09/2023",
+								"oponente": "Paraguay",
+								"resultado": "1-0",
+								"estadio": "Monumental de Maturín",
+								"modalidad": "Local",
+								"entrenador": "Fernando Batista"
+							},
+							{
+								"fecha": "12/10/2023",
+								"oponente": "Brasil",
+								"resultado": "1-5",
+								"estadio": "Arena Pantanal",
+								"modalidad": "Visita",
+								"entrenador": "Fernando Batista"
+							},
+							{
+								"fecha": "17/10/2023",
+								"oponente": "Chile",
+								"resultado": "3-0",
+								"estadio": "Monumental de Maturín",
+								"modalidad": "Local",
+								"entrenador": "Fernando Batista"
+							},
+							{
+								"fecha": "16/11/2023",
+								"oponente": "Ecuador",
+								"resultado": "0-0",
+								"estadio": "Monumental de Maturín",
+								"modalidad": "Local",
+								"entrenador": "Fernando Batista"
+							},
+							{
+								"fecha": "21/11/2023",
+								"oponente": "Perú",
+								"resultado": "1-1",
+								"estadio": "Nacional del Perú",
+								"modalidad": "Visita",
+								"entrenador": "Fernando Batista"
+							}
+						]
+					}
+				]
+			}
+		},
+		"CampeonatoChileno": {
+			"divisiones": {
+				"division": {
+					"nombre": "Segunda division",
+					"equipos": {
+						"equipo": [
+							{
+								"nombre": "Concón National",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Mar. 05 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "1-2",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 10 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-2",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 17 Marzo 2024",
+											"hora": "12:00",
+											"resultado": "1-3",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 25 Marzo 2024",
+											"hora": "21:00",
+											"resultado": "0-3",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 30 Marzo 2024",
+											"hora": "20:30",
+											"resultado": "0-2",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 06 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-2",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Rubén Marcos",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 15 Abril 2024",
+											"hora": "20:30",
+											"resultado": "0-0",
+											"oponente": "Deportes Linares",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 21 Abril 2024",
+											"hora": "12:30",
+											"resultado": "2-1",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 27 Abril 2024",
+											"hora": "12:00",
+											"resultado": "1-0",
+											"oponente": "Trasandino",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 04 Mayo 2024",
+											"hora": "20:00",
+											"resultado": "1-1",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Diaguita",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 10 Mayo 2024",
+											"hora": "19:00",
+											"resultado": "2-1",
+											"oponente": "General Velásquez",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 19 Mayo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Gutierrez Leiva",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "D. Puerto Montt",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 09 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "Fernández Vial",
+											"entrenador": "",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 16 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "3-0",
+											"oponente": "Real San Joaquín",
+											"entrenador": "",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 25 Marzo 2024",
+											"hora": "21:00",
+											"resultado": "3-0",
+											"oponente": "Concón National",
+											"entrenador": "",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 30 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 06 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Linares",
+											"entrenador": "",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 13 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-3",
+											"oponente": "Deportes Rengo",
+											"entrenador": "",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 20 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-0",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 28 Abril 2024",
+											"hora": "12:30",
+											"resultado": "1-0",
+											"oponente": "Provincial Osorno",
+											"entrenador": "",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 06 Mayo 2024",
+											"hora": "14:00",
+											"resultado": "1-2",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "",
+											"estadio": "Félix Gallardo",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 12 Mayo 2024",
+											"hora": "12:30",
+											"resultado": "0-1",
+											"oponente": "San Antonio Unido",
+											"entrenador": "",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 18 Mayo 2024",
+											"hora": "17:30",
+											"resultado": "3-2",
+											"oponente": "Trasandino",
+											"entrenador": "",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Deportes Concepción",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "1-1",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 09 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 17 Marzo 2024",
+											"hora": "12:00",
+											"resultado": "3-1",
+											"oponente": "Concón National",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 25 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "2-1",
+											"oponente": "Deportes Linares",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 30 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 06 Abril 2024",
+											"hora": "17:30",
+											"resultado": "1-0",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 14 Abril 2024",
+											"hora": "12:30",
+											"resultado": "3-2",
+											"oponente": "Fernández Vial",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 21 Abril 2024",
+											"hora": "17:30",
+											"resultado": "1-2",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Diaguita",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 27 Abril 2024",
+											"hora": "18:00",
+											"resultado": "1-3",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 05 Mayo 2024",
+											"hora": "17:30",
+											"resultado": "1-0",
+											"oponente": "Trasandino",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "18:00",
+											"resultado": "4-0",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 19 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-2",
+											"oponente": "General Velásquez",
+											"entrenador": "Gutierrez Silva",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "visita"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Deportes Linares",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Lun. 11 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-2",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 18 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-3",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 25 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "1-2",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 01 Abril 2024",
+											"hora": "19:00",
+											"resultado": "2-1",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 06 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 15 Abril 2024",
+											"hora": "20:30",
+											"resultado": "0-0",
+											"oponente": "Concón National",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 20 Abril 2024",
+											"hora": "12:30",
+											"resultado": "0-2",
+											"oponente": "General Velásquez",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 27 Abril 2024",
+											"hora": "15:00",
+											"resultado": "2-0",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 04 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Rubén Marcos",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-0",
+											"oponente": "Fernández Vial",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Vier. 17 Mayo 2024",
+											"hora": "19:00",
+											"resultado": "1-2",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Cortes Esquivel",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Deportes Melipilla",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "4-0",
+											"oponente": "Trasandino",
+											"entrenador": "Palma Valdes",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 10 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "2-1",
+											"oponente": "Concón National",
+											"entrenador": "Palma Valdes",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 18 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "3-1",
+											"oponente": "Deportes Linares",
+											"entrenador": "Palma Valdes",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 24 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Palma Valdes",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 31 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "5-0",
+											"oponente": "General Velásquez",
+											"entrenador": "Palma Valdes",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 07 Abril 2024",
+											"hora": "12:30",
+											"resultado": "2-1",
+											"oponente": "Fernández Vial",
+											"entrenador": "Palma Valdes",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 13 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Palma Valdes",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 20 Abril 2024",
+											"hora": "15:00",
+											"resultado": "0-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Palma Valdes",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 27 Abril 2024",
+											"hora": "18:00",
+											"resultado": "3-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Palma Valdes",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 05 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-2",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Palma Valdes",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Palma Valdes",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 18 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "3-3",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Palma Valdes",
+											"estadio": "Rubén Marcos",
+											"modalidad": "visita"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Deportes Rengo",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 09 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Vier. 15 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "3-1",
+											"oponente": "Trasandino",
+											"entrenador": "Leiva Segura",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 22 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "General Velásquez",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Mar. 02 Abril 2024",
+											"hora": "18:00",
+											"resultado": "2-1",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 07 Abril 2024",
+											"hora": "15:00",
+											"resultado": "2-3",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 13 Abril 2024",
+											"hora": "15:00",
+											"resultado": "3-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Leiva Segura",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 21 Abril 2024",
+											"hora": "12:30",
+											"resultado": "1-2",
+											"oponente": "Concón National",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 28 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-0",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 05 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "2-1",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "12:30",
+											"resultado": "1-1",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Leiva Segura",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 18 Mayo 2024",
+											"hora": "18:00",
+											"resultado": "0-0",
+											"oponente": "Fernández Vial",
+											"entrenador": "Leiva Segura",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Fernández Vial",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "3-4",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 09 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 16 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "1-1",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 23 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Rubén Marcos",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Jue. 28 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "4-0",
+											"oponente": "Trasandino",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 07 Abril 2024",
+											"hora": "12:30",
+											"resultado": "1-2",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 14 Abril 2024",
+											"hora": "12:30",
+											"resultado": "2-3",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 19 Abril 2024",
+											"hora": "19:00",
+											"resultado": "0-0",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Vier. 26 Abril 2024",
+											"hora": "19:00",
+											"resultado": "0-0",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 03 Mayo 2024",
+											"hora": "19:00",
+											"resultado": "1-1",
+											"oponente": "General Velásquez",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "0-1",
+											"oponente": "Deportes Linares",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 18 Mayo 2024",
+											"hora": "18:00",
+											"resultado": "0-0",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Sanchez Teran",
+											"estadio": "Ester Roa",
+											"modalidad": "local"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "General Velásquez",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Dom. 03 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-1",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 10 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "7-2",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 17 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-3",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Vier. 22 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 31 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-5",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 07 Abril 2024",
+											"hora": "20:00",
+											"resultado": "0-0",
+											"oponente": "Trasandino",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 14 Abril 2024",
+											"hora": "15:00",
+											"resultado": "2-0",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 20 Abril 2024",
+											"hora": "12:30",
+											"resultado": "2-0",
+											"oponente": "Deportes Linares",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 28 Abril 2024",
+											"hora": "15:00",
+											"resultado": "6-2",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Vier. 03 Mayo 2024",
+											"hora": "19:00",
+											"resultado": "1-1",
+											"oponente": "Fernández Vial",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 10 Mayo 2024",
+											"hora": "19:00",
+											"resultado": "1-2",
+											"oponente": "Concón National",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 19 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "2-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Quintanilla Fernandez",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "local"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Lautaro de Buin",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "4-3",
+											"oponente": "Fernández Vial",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 11 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "0-1",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Diaguita",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 18 Marzo 2024",
+											"hora": "20:30",
+											"resultado": "1-1",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 24 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 01 Abril 2024",
+											"hora": "19:00",
+											"resultado": "1-2",
+											"oponente": "Deportes Linares",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 07 Abril 2024",
+											"hora": "15:00",
+											"resultado": "3-2",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 14 Abril 2024",
+											"hora": "17:30",
+											"resultado": "0-1",
+											"oponente": "Trasandino",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 21 Abril 2024",
+											"hora": "15:00",
+											"resultado": "0-1",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Rubén Marcos",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 28 Abril 2024",
+											"hora": "15:00",
+											"resultado": "2-6",
+											"oponente": "General Velásquez",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 06 Mayo 2024",
+											"hora": "14:00",
+											"resultado": "2-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Félix Gallardo",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "18:00",
+											"resultado": "0-4",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 19 Mayo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "Concón National",
+											"entrenador": "Ortiz Cornejo",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Provincial Osorno",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 09 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "Trasandino",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Rubén Marcos",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 17 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "3-1",
+											"oponente": "General Velásquez",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 23 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "Fernández Vial",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Rubén Marcos",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 31 Marzo 2024",
+											"hora": "20:30",
+											"resultado": "3-0",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Diaguita",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 06 Abril 2024",
+											"hora": "15:00",
+											"resultado": "2-1",
+											"oponente": "Concón National",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Rubén Marcos",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 15 Abril 2024",
+											"hora": "18:00",
+											"resultado": "2-3",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 21 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-0",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Rubén Marcos",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 28 Abril 2024",
+											"hora": "12:30",
+											"resultado": "0-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 04 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Linares",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Rubén Marcos",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "12:30",
+											"resultado": "1-1",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Municipal de Rengo",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 18 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "3-3",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Giglio Vergara",
+											"estadio": "Rubén Marcos",
+											"modalidad": "local"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Provincial Ovalle",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 11 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "1-0",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Diaguita",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 16 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "1-1",
+											"oponente": "Fernández Vial",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 23 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "2-2",
+											"oponente": "Trasandino",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 31 Marzo 2024",
+											"hora": "20:30",
+											"resultado": "0-3",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Diaguita",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 08 Abril 2024",
+											"hora": "19:00",
+											"resultado": "0-1",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Diaguita",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 14 Abril 2024",
+											"hora": "15:00",
+											"resultado": "0-2",
+											"oponente": "General Velásquez",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 21 Abril 2024",
+											"hora": "17:30",
+											"resultado": "2-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Diaguita",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 27 Abril 2024",
+											"hora": "15:00",
+											"resultado": "0-2",
+											"oponente": "Deportes Linares",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Fiscal Tucapel Bustamante",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 04 Mayo 2024",
+											"hora": "20:00",
+											"resultado": "1-1",
+											"oponente": "Concón National",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Diaguita",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 11 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 19 Mayo 2024",
+											"hora": "12:30",
+											"resultado": "4-0",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Cea Gonzalez",
+											"estadio": "La Portada",
+											"modalidad": "local"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Real San Joaquín",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Dom. 03 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-1",
+											"oponente": "General Velásquez",
+											"entrenador": "Ruz Maldonado",
+											"estadio": "Municipal Augusto Rodríguez",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 11 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "2-1",
+											"oponente": "Deportes Linares",
+											"entrenador": "Ruz Maldonado",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 16 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-3",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 24 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "1-0",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Ruz Maldonado",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 30 Marzo 2024",
+											"hora": "20:30",
+											"resultado": "2-0",
+											"oponente": "Concón National",
+											"entrenador": "Ruz Maldonado",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 06 Abril 2024",
+											"hora": "17:30",
+											"resultado": "0-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Ruz Maldonado",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 13 Abril 2024",
+											"hora": "15:00",
+											"resultado": "1-1",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Padilla Aguilar",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Vier. 19 Abril 2024",
+											"hora": "19:00",
+											"resultado": "0-0",
+											"oponente": "Fernández Vial",
+											"entrenador": "Padilla Aguilar",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 28 Abril 2024",
+											"hora": "15:00",
+											"resultado": "0-1",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Padilla Aguilar",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 05 Mayo 2024",
+											"hora": "20:00",
+											"resultado": "1-2",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Padilla Aguilar",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 12 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "1-0",
+											"oponente": "Trasandino",
+											"entrenador": "Padilla Aguilar",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 19 Mayo 2024",
+											"hora": "12:30",
+											"resultado": "0-4",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Padilla Aguilar",
+											"estadio": "La Portada",
+											"modalidad": "visita"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "San Antonio Unido",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Mar. 05 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "2-1",
+											"oponente": "Concón National",
+											"entrenador": "",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 10 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "2-7",
+											"oponente": "General Velásquez",
+											"entrenador": "Lecaros Lobos",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 18 Marzo 2024",
+											"hora": "20:30",
+											"resultado": "1-1",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Lecaros Lobos",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 24 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Lecaros Lobos",
+											"estadio": "Estadio Soinca Bata",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Mar. 02 Abril 2024",
+											"hora": "18:00",
+											"resultado": "1-2",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Carvajal Leiva",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Lun. 08 Abril 2024",
+											"hora": "19:00",
+											"resultado": "1-0",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Carvajal Leiva",
+											"estadio": "Diaguita",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Lun. 15 Abril 2024",
+											"hora": "18:00",
+											"resultado": "3-2",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Veliz Schmauck",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 20 Abril 2024",
+											"hora": "17:30",
+											"resultado": "2-1",
+											"oponente": "Trasandino",
+											"entrenador": "Veliz Schmauck",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 26 Abril 2024",
+											"hora": "19:00",
+											"resultado": "0-0",
+											"oponente": "Fernández Vial",
+											"entrenador": "Veliz Schmauck",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 05 Mayo 2024",
+											"hora": "20:00",
+											"resultado": "2-1",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Veliz Schmauck",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 12 Mayo 2024",
+											"hora": "12:30",
+											"resultado": "1-0",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Veliz Schmauck",
+											"estadio": "Bicentenario Chinquihue",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 17 Mayo 2024",
+											"hora": "19:00",
+											"resultado": "2-1",
+											"oponente": "Deportes Linares",
+											"entrenador": "Veliz Schmauck",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "local"
+										}
+									]
+								}
+							},
+							{
+								"nombre": "Trasandino",
+								"partidos": {
+									"partido": [
+										{
+											"fecha": "Sáb. 02 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "0-4",
+											"oponente": "Deportes Melipilla",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 09 Marzo 2024",
+											"hora": "18:00",
+											"resultado": "0-1",
+											"oponente": "Provincial Osorno",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Rubén Marcos",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Vier. 15 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "1-3",
+											"oponente": "Deportes Rengo",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 23 Marzo 2024",
+											"hora": "20:00",
+											"resultado": "2-2",
+											"oponente": "Provincial Ovalle",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Jue. 28 Marzo 2024",
+											"hora": "19:00",
+											"resultado": "0-4",
+											"oponente": "Fernández Vial",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Ester Roa",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 07 Abril 2024",
+											"hora": "20:00",
+											"resultado": "0-0",
+											"oponente": "General Velásquez",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 14 Abril 2024",
+											"hora": "17:30",
+											"resultado": "1-0",
+											"oponente": "Lautaro de Buin",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Municipal de La Pintana",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 20 Abril 2024",
+											"hora": "17:30",
+											"resultado": "1-2",
+											"oponente": "San Antonio Unido",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Sáb. 27 Abril 2024",
+											"hora": "12:00",
+											"resultado": "0-1",
+											"oponente": "Concón National",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Bicentenario Lucio Fariña",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Dom. 05 Mayo 2024",
+											"hora": "17:30",
+											"resultado": "0-1",
+											"oponente": "Deportes Concepción",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										},
+										{
+											"fecha": "Dom. 12 Mayo 2024",
+											"hora": "15:00",
+											"resultado": "0-1",
+											"oponente": "Real San Joaquín",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Municipal de San Joaquín",
+											"modalidad": "visita"
+										},
+										{
+											"fecha": "Sáb. 18 Mayo 2024",
+											"hora": "17:30",
+											"resultado": "2-3",
+											"oponente": "D. Puerto Montt",
+											"entrenador": "Gutierrez Trujillo",
+											"estadio": "Regional de Los Andes",
+											"modalidad": "local"
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+			}
+		}
+	}
+}

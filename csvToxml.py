@@ -12,21 +12,29 @@ dataFiltred = [array for array in dataArray if array[2] == toSearch or array[4] 
 def invertir_numeros(cadena):
     partes = cadena.split()
     partes_invertidas = partes[::-1]
-    return ' '.join(partes_invertidas)
+    return '-'.join(partes_invertidas)
 
+def formatear_numeros(cadena):
+    partes = cadena.split()
+    return '-'.join(partes)
 
 def toxml(dataFiltred):
     dataMerge = []
 
-
     for array in dataFiltred:
         if array[2] == toSearch:
+            if isinstance(array[3], str):
+                array[3] = formatear_numeros(array[3])
+            array.append('local')  # Añadir "local" en la posición [6]
             dataMerge.append(array)
+            #hazlo aca
         else:
             array[2], array[4] = array[4], array[2]
-            if isinstance(array[2], str):
+            if isinstance(array[3], str):
                 array[3] = invertir_numeros(array[3])
-                dataMerge.append(array)
+            array.append('visita')  # Añadir "visita" en la posición [6]
+            dataMerge.append(array)
+        #hazlo aca 2
 
     root = ET.Element('equipo')
     name_ = ET.SubElement(root, 'nombre')
@@ -51,11 +59,12 @@ def toxml(dataFiltred):
         estadio = ET.SubElement(partido, 'estadio')
         estadio.text = array[5]
 
+        modalidad = ET.SubElement(partido, 'modalidad')
+        modalidad.text = array[6]
+
     # Crear el árbol XML y escribirlo en un archivo
     tree = ET.ElementTree(root)
     with open('file.xml', 'wb') as file:
         tree.write(file, encoding='utf-8', xml_declaration=True)
-                
-
 
 toxml(dataFiltred)
